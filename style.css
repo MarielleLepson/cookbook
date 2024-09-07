@@ -115,6 +115,10 @@ nav ul li a {
     opacity: 1;
 }
 
+.recipe-image:hover img {
+    filter: brightness(0.5);
+}
+
 .contacts {
     line-height: 4px;
 }
