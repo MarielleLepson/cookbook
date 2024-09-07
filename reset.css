@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&display=swap');
+
+h1 {
+    font-family: "Mingzat";
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "Mingzat";
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: "Mingzat";
+    font-size: 14px;
+}
+
+hr {
+    background-color: #5d5b5b;
+    height: 2px;
+    border: 0;
+    width: 35%;
+    margin: 10px auto; 
+}
+
+li {
+    font-family: "Mingzat";
+}
+
+a {
+    font-family: "Mingzat";
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #5d5b5b;   
+}
+
+body {
+    margin: 0 10px;
+}
